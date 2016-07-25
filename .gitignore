@@ -56,3 +56,7 @@ Temporary Items
 /cms/target
 /essentials/target
 /site/target
+
+.classpath
+.project
+.settings/
