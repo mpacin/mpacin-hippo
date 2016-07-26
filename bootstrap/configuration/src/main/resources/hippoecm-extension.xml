@@ -575,4 +575,32 @@
       <sv:value>/hst:hst/hst:configurations/mpacinhippo/hst:pages</sv:value>
     </sv:property>
   </sv:node>
+  <sv:node sv:name="mpacin-hippo-hippo-namespaces-mpacinhippo-simpledocument">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30052.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>namespaces/mpacinhippo/simpledocument.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hippo:namespaces/mpacinhippo</sv:value>
+    </sv:property>
+  </sv:node>
+<sv:node sv:name="mpacin-hippo-hst-hst-hst-configurations-mpacinhippo-hst-components-simplecomponent">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:initializeitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:sequence" sv:type="Double">
+      <sv:value>30084.0</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentresource" sv:type="String">
+      <sv:value>hst/configurations/mpacinhippo/components/simplecomponent.xml</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:contentroot" sv:type="String">
+      <sv:value>/hst:hst/hst:configurations/mpacinhippo/hst:components</sv:value>
+    </sv:property>
+  </sv:node>
 </sv:node>
