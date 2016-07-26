@@ -9,7 +9,7 @@
       <@hst.html hippohtml=document.content />
     </div>
     <#else>
-      <h1>Goodbye? cruel world</h1>
+      <h1>No Content</h1>
   </#if>
 </body>
 </html>
