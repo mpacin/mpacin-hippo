@@ -7,6 +7,9 @@
 [mpacinhippo:basedocument] > hippo:document, hippostd:publishableSummary, hippostdpubwf:document
   orderable
 
+[mpacinhippo:contentdocument] > hippostd:relaxed, hippotranslation:translated, mpacinhippo:basedocument
+  orderable
+
 [mpacinhippo:simpledocument] > hippostd:relaxed, hippotranslation:translated, mpacinhippo:basedocument
   orderable
 
