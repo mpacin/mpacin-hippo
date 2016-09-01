@@ -27,6 +27,9 @@
       <sv:value>hello-world/hello-world[3]</sv:value>
       <sv:value>hello-world/hello-world[2]</sv:value>
     </sv:property>
+    <sv:property sv:name="hippostd:holder" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
     <sv:property sv:name="hippostd:state" sv:type="String">
       <sv:value>draft</sv:value>
     </sv:property>
@@ -40,7 +43,7 @@
       <sv:value>2016-07-26T10:44:58.427+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-      <sv:value>2016-07-26T10:44:59.263+02:00</sv:value>
+      <sv:value>2016-08-24T17:07:49.040+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
       <sv:value>admin</sv:value>
